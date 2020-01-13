@@ -1,0 +1,6 @@
+{
+"message_code": "BID.REMINDER", 
+"message_data": {"text": "The current bid is at Rs 8200 which is lower than personal loan rate. Bid now to borrow cheaply.", 
+"type": "FCM", "img_url": "", "target_activity": ""}, 
+"mobile_number": "${mobile_number}"
+}

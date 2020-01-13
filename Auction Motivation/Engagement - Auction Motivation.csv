@@ -1,0 +1,15 @@
+Cycle,Projected_Discount,Current_Bid,Messages
+1,,,
+2,30%,10,The current bid is at <current bid value>; which is lower than bank loan. Bid now to borrow cheaply.
+2,,20,The current bid is at <current bid value>; which is lower than personal loan rate. Bid now to borrow cheaply.
+2,,25,The current bid is at <current bid value>; which is lower than average winning bid for this cycle.
+4,25,10,The current bid is at <current bid value>; which is lower than bank loan. Bid now to borrow cheaply.
+4,,20,The current bid is at <current bid value>; which is lower than personal loan rate. Bid now to borrow cheaply.
+5,20,10,The current bid is at <current bid value>; which is lower than bank loan. Bid now to borrow cheaply.
+5,,15,The current bid is at <current bid value>; which is lower than personal loan rate. Bid now to borrow cheaply.
+6,15%,10,The current bid is at <current bid value>; which is lower than bank loan. Bid now to borrow cheaply.
+6,,12,The current bid is at <current bid value>; which is lower than average winning bid for this cycle.
+7,10%,8,The current bid is at <current bid value>; which is lower than bank loan. Bid now to borrow cheaply.
+7,,10,The current bid is at <current bid value>; which is lower than average winning bid for this cycle.
+8,8%,8,The current bid is at <current bid value>; which is lower than average winning bid for this cycle.
+9,8%,6,Only two members can bid this cycle. Place your bid to get early access to funds.
